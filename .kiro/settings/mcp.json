@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "cobra": {
+      "command": "node",
+      "args": ["dist/mcp-server/index.js"],
+      "env": {
+        "NODE_ENV": "production"
+      },
+      "disabled": false,
+      "autoApprove": [
+        "parseCobol",
+        "analyzeLogic",
+        "generateSpec",
+        "generateAWSCode",
+        "suggestModernization"
+      ]
+    }
+  }
+}

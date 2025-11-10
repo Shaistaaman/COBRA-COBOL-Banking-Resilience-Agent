@@ -1,0 +1,27 @@
+.file-upload {
+  border: 2px dashed #0f3460;
+  border-radius: 8px;
+  padding: 1rem 1.5rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: white;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.file-upload:hover {
+  border-color: #16213e;
+  background: #f0f4f8;
+}
+
+.file-upload.dragging {
+  border-color: #16213e;
+  background: #e8f0f8;
+  transform: scale(1.02);
+}
+
+.file-upload span {
+  font-weight: 500;
+  color: #0f3460;
+}
