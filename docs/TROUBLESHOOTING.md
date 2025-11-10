@@ -721,4 +721,4 @@ cd src/web/frontend && npm install && cd ../../..
 5. Open an issue on GitHub with diagnostic information
 
 **Troubleshooting Guide v1.0**  
-**Last Updated**: November 8, 2024
+**Last Updated**: November 10, 2025

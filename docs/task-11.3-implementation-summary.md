@@ -96,7 +96,7 @@ Comprehensive tracking of LLM API usage and costs:
 - Budget threshold alerts
 - Exportable cost reports
 
-**Pricing Data** (as of 2024):
+**Pricing Data** (current):
 
 - OpenAI GPT-4o-mini: $0.15/$0.60 per 1M tokens (input/output)
 - OpenAI GPT-4o: $2.50/$10 per 1M tokens

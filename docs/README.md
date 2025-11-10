@@ -250,5 +250,5 @@ Contributions welcome! Please:
 ---
 
 **Documentation v1.0**  
-**Last Updated**: November 8, 2024  
+**Last Updated**: November 10, 2025  
 **COBRA Version**: 0.1.0

@@ -385,4 +385,4 @@ docker-compose up
 ---
 
 **Quick Reference v1.0**  
-**Last Updated**: November 8, 2024
+**Last Updated**: November 10, 2025

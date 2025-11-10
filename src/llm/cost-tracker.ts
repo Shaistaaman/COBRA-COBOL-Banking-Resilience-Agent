@@ -27,7 +27,7 @@ export interface CostSummary {
 }
 
 /**
- * Pricing information for LLM providers (as of 2024)
+ * Pricing information for LLM providers (current)
  */
 const PRICING = {
   openai: {
